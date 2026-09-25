@@ -16,8 +16,7 @@ Stratified splitting and cross-validation were used to preserve class proportion
 ## Implementation
 
 The workflow is implemented in `classification.ipynb`. The `predict.py` module loads the saved Gradient Boosting model and its preprocessing artifacts, transforms a supplied record, and returns a predicted class and the probability associated with the `>50K` class. The `classification_GUI.py` script provides a Tkinter interface for entering a record and displaying the prediction.
-
-The notebook expects the dataset at `dataset/adult.csv`. That dataset is not included in the repository. The trained model, scaler, encoders, and feature-order artifacts are included for the standalone prediction workflow.
+The trained model, scaler, encoders, and feature-order artifacts are included for the standalone prediction workflow.
 
 ## Results and Findings
 
