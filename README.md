@@ -21,6 +21,4 @@ The notebook expects the dataset at `dataset/adult.csv`. That dataset is not inc
 
 ## Results and Findings
 
-The project produces a reusable income-classification pipeline and a simple graphical interface for inference. Gradient Boosting is the classifier used by the saved prediction application. The notebook also compares multiple classifiers and experiments with a tuned neural-network approach.
-
-No numerical performance metrics are stated in this summary because verified evaluation scores were not available for confirmation. The model’s output represents a prediction from patterns in the dataset and should not be interpreted as a definitive assessment of an individual’s actual income.
+The project produces a reusable income-classification pipeline and a simple graphical interface for inference. Gradient Boosting is the classifier used by the saved prediction application.
