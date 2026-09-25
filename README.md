@@ -1,4 +1,4 @@
-# Income Classification: One-Page Summary
+# Income Classification
 
 ## Overview
 
